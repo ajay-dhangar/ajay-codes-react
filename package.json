@@ -1,7 +1,7 @@
 {
-  "name": "react-01",
+  "name": "ajay-codes-react",
   "version": "1.0.0",
-  "homepage": "https://ajay-dhangar.github.io/react-01/",
+  "homepage": "https://ajay-dhangar.github.io/ajay-codes-react/",
   "description": "Basic React App",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
