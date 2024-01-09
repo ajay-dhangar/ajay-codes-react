@@ -145,7 +145,7 @@ const Navbar = () => {
 
   return (
     <NavbarContainer>
-      <NavLink to="/react-01" onClick={handleNavLinkClick}>
+      <NavLink to="/ajay-codes-react" onClick={handleNavLinkClick}>
       <LogoContainer>
         <LogoText>Ajay</LogoText>
         <LogoSubtext>CodesReact</LogoSubtext>
@@ -160,22 +160,22 @@ const Navbar = () => {
       <MobileMenu isOpen={isMenuOpen}>
         <NavLinks isOpen={isMenuOpen}>
           <NavLinkItem>
-            <NavLink to="/react-01/home" onClick={handleNavLinkClick}>
+            <NavLink to="/ajay-codes-react/home" onClick={handleNavLinkClick}>
               Home
             </NavLink>
           </NavLinkItem>
           <NavLinkItem>
-            <NavLink to="/react-01/courses" onClick={handleNavLinkClick}>
+            <NavLink to="/ajay-codes-react/courses" onClick={handleNavLinkClick}>
               Courses
             </NavLink>
           </NavLinkItem>
           <NavLinkItem>
-            <NavLink to="/react-01/about" onClick={handleNavLinkClick}>
+            <NavLink to="/ajay-codes-react/about" onClick={handleNavLinkClick}>
               About
             </NavLink>
           </NavLinkItem>
           <NavLinkItem>
-            <NavLink to="/react-01/contact" onClick={handleNavLinkClick}>
+            <NavLink to="/ajay-codes-react/contact" onClick={handleNavLinkClick}>
               Contact
             </NavLink>
           </NavLinkItem>

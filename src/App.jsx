@@ -15,12 +15,12 @@ const App = () => {
             <Router>
                 <Navbar />
                 <Routes>
-                    <Route path="/react-01" element={<Home />} />
-                    <Route path="/react-01/home" element={<Home />} />
-                    <Route path="/react-01/courses" element={<Courses />} />
-                    <Route path="/react-01/about" element={<About />} />
-                    <Route path="/react-01/contact" element={<Contact />} />
-                    <Route path="/react-01/courses/hooks" element={<Hooks />} />
+                    <Route path="/ajay-codes-react" element={<Home />} />
+                    <Route path="/ajay-codes-react/home" element={<Home />} />
+                    <Route path="/ajay-codes-react/courses" element={<Courses />} />
+                    <Route path="/ajay-codes-react/about" element={<About />} />
+                    <Route path="/ajay-codes-react/contact" element={<Contact />} />
+                    <Route path="/ajay-codes-react/courses/hooks" element={<Hooks />} />
                 </Routes>
                 <Footer />
             </Router>

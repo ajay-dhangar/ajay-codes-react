@@ -92,13 +92,13 @@ const Footer = () => {
           <h2>Quick Links</h2>
           <ul>
             <li>
-              <a href="/react-01/about">About</a>
+              <a href="/ajay-codes-react/about">About</a>
             </li>
             <li>
-              <a href="/react-01/courses">Courses</a>
+              <a href="/ajay-codes-react/courses">Courses</a>
             </li>
             <li>
-              <a href="/react-01/contact">Contact</a>
+              <a href="/ajay-codes-react/contact">Contact</a>
             </li>
           </ul>
         </FooterSection>
